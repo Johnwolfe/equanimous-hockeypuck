@@ -8,3 +8,24 @@ body{
 	height: 200px;
 	margin: 20px;
 }
+
+
+nav{
+	background-color: #0b0b0b;
+	width: 100%
+}
+
+ul{
+	margin: 0 auto;
+	width: 960px;
+	padding: 20px 0;
+	text-align: center;
+}
+
+li{
+	display: inline-block;
+	list-style-type: none;
+	color: #fff;
+	margin: 0 20px;
+	font-size: 28px;
+}
